@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Wendy+One&display=swap');
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+//$resolution__mobile: 678px;
+//$resolution__pad: 767px;
+
+//$resolution__mobile: 1140px;
+$resolution__mobile: 1080px;
+
+
+/*
+::-webkit-scrollbar{
+    height: 4px;
+    width: 4px;
+    background: gray;
+}
+
+// Track
+::-webkit-scrollbar-track {
+    
+  background: #f1f1f1; 
+}
+ 
+// Handle
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+// Handle on hover
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+::-webkit-scrollbar-thumb:horizontal{
+    background: #FFF;
+    border-radius: 10px;
+}
+*/
+
+/*
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+*/
